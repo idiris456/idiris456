@@ -13,7 +13,7 @@
 <br clear="both">
 
 <h6 align="left">## 👋 Hey there, I'm Idris!<br><br>✨ Creating bugs since the first `<div>`  <br>📚 I'm currently learning TypeScript, Next.js & sharpening my fullstack skills  <br>🎯 Goals: Build real-world apps, freelance my way to a custom PC, and help beginners in tech  <br>🎲 Fun fact: I can debug faster with 🍵 and lo-fi beats in the background 😄  <br><br>
-### 💻 Tech Stack<br>- 🌐 Frontend: React, Redux Toolkit, SCSS, Vite  <br>- 🛠 Backend: Node.js, Express, PostgreSQL, MongoDB  <br>- 🧪 Testing: Jest, Postman  <br>- ☁️ Tools: Git, GitHub, VSCode, Linux, Figma  <br><br>---<br><br>📬 Feel free to connect or collaborate!  <br>> "Consistency over perfection – one commit at a time."</h6>
+### 💻 Tech Stack<br>- 🌐 Frontend: React, Redux Toolkit, SCSS, Vite  <br>- 🛠 Backend: Node.js, Express, PostgreSQL, MongoDB  <br>- 🧪 Testing: Jest, Postman  <br>- ☁️ Tools: Git, GitHub, VSCode, Figma  <br><br>---<br><br>📬 Feel free to connect or collaborate!  <br>> "Consistency over perfection – one commit at a time."</h6>
 
 ###
 
