@@ -20,6 +20,7 @@ I build real-world web applications with modern technologies.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query)
 ---
 
 ## Projects
