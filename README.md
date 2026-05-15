@@ -19,6 +19,7 @@ I build real-world web applications with modern technologies.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 ---
 
 ## Projects
