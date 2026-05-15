@@ -1,13 +1,11 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Hi,+I'm+Idris;Fullstack+Developer;Learning+Golang;Open+to+opportunities)](https://git.io/typing-svg)
-
-</div>
-
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&width=500&lines=Hi,+I'm+Idris;Fullstack+Developer;Next.js+%2B+TypeScript+%2B+Golang;Open+to+opportunities)](https://git.io/typing-svg)
 
 Fullstack Developer from Kyrgyzstan.
 I build real-world web applications with modern technologies.
+
+</div>
 
 ---
 
@@ -24,13 +22,24 @@ I build real-world web applications with modern technologies.
 
 ---
 
+## Projects
+
+Baaluu Kitep — [baaluukitep.kg](https://baaluukitep.kg)
+E-commerce bookstore for the Kyrgyzstan market.
+- Role: Frontend Developer (team of 5)
+- Stack: Next.js, TypeScript, React, SCSS
+- Features: catalog, search, cart, favorites, bilingual (KY/RU)
+- Status: Production — 445+ commits
+
+---
+
 ## Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=idiris456&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=idiris456&theme=dark&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=idiris456&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idiris456&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 
@@ -41,8 +50,8 @@ I build real-world web applications with modern technologies.
 ## Currently
 
 - Learning Golang for backend development
-- Building pet projects
-- Open to junior and trainee opportunities
+- Looking for junior frontend or fullstack opportunities
+- Open to remote work and relocation
 
 ---
 
