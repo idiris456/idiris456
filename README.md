@@ -45,13 +45,10 @@ Browse popular and top rated movies using TMDB API.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=idiris456&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 
 <img src="https://streak-stats.demolab.com?user=idiris456&theme=dark&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idiris456&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 
-</div>
 
 ---
 
