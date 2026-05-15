@@ -14,10 +14,11 @@ I build real-world web applications with modern technologies.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
 ---
 
 ## Projects
