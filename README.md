@@ -28,10 +28,17 @@ Baaluu Kitep — [baaluukitep.kg](https://baaluukitep.kg)
 E-commerce bookstore for the Kyrgyzstan market.
 - Role: Frontend Developer (team of 5)
 - Stack: Next.js, TypeScript, React, SCSS
-- Features: catalog, search, cart, favorites, bilingual (KY/RU)
 - Status: Production — 445+ commits
 
----
+DomikTut — Cottage rental platform
+Booking platform for cottages and houses.
+- Stack: React, TypeScript, Next.js
+- Features: catalog, filters, FAQ
+
+TMDB Movie App — Movie discovery app
+Browse popular and top rated movies using TMDB API.
+- Stack: React, Vite, TMDB API
+- Features: search, favorites, routing, ratings
 
 ## Stats
 
